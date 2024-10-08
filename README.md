@@ -7,7 +7,7 @@ A simple Python script to check if a website URL is secure by verifying if it us
 - Check if a website uses HTTPS
 - Handle exceptions for non-responsive websites or bad URLs
 - Simple command-line interface for URL input
-
+ 
 ## Requirements
 
 - Python 3.x
